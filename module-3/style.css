@@ -1,0 +1,49 @@
+body {
+    font-size: 16px;
+    color: black;
+    background-color: white;
+    font-family: 'Oxygen', sans-serif;
+}
+#head {
+    background-color: greenyellow;
+    border-radius: 0;
+    border: 0;
+    height: 75px;
+}
+.navbar-brand {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.navbar-brand h1 {
+    font-family: "Lora", serif;
+    color: black;
+    font-size: 3em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.75;
+}
+#menu {
+    color: darkgreen;
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 0;
+    margin-bottom: 15px;
+}
+section {
+    margin: 15px;
+    padding: 15px;
+}
+.main {
+    margin: 15px;
+    background-color: limegreen;
+    font-style: italic;
+}
+#collapsable-nav a {
+    font-size: 1.2em;
+}
+.heading {
+    font-weight: bold;
+    font-size: 1.5em;
+}
